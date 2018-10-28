@@ -1,4 +1,5 @@
 ```
+# LAMP (EC2) setup for Drupal 7.
 sudo su
 apt-get update
 apt-get upgrade -y
